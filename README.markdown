@@ -6,6 +6,8 @@
 
 *Kurage* tries to solve this by calculating a score for each series on your friends' lists from both their rating for that series and how similar their taste is to yours overall.
 
+[mal]: http://myanimelist.net
+
 ## Requirements
 
 * Ruby 1.8 or 1.9
